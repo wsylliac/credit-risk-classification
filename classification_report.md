@@ -1,5 +1,7 @@
 # Credit Risk Analysis Report
 
+![image](https://github.com/wsylliac/credit-risk-classification/assets/140991773/7f118bd5-e983-4a26-bd73-8cb01df491ae)
+
 
 ## Overview of the Analysis
 
@@ -15,7 +17,7 @@ Based on the confusion matrix in step 3:
 
 * For loans categorized as Healthy (low-risk), the model predicted 18,655 as Predicted Healthy Loans (low-risk) and 110 as Predicted Non-Healthy Loans (high-risk).
 
-For Non-Healthy Loans (high-risk), the model predicted 36 as Predicted Healthy Loans (low-risk) and 583 as Predicted Non-Healthy Loans (high-risk).
+* For Non-Healthy Loans (high-risk), the model predicted 36 as Predicted Healthy Loans (low-risk) and 583 as Predicted Non-Healthy Loans (high-risk).
 
 
 
